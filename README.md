@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 Cybersecurity specialist with a focus on *offensive security, threat intelligence, and red team operations*.  
-I build *CTF challenges, conduct **security research, and contribute to **open-source projects*.  
+I build CTF challenges, conduct security research, and contribute to open-source projects.  
 
 ---
 
