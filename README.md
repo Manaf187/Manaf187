@@ -22,7 +22,7 @@ I build CTF challenges, conduct security research, and contribute to open-source
 - [*Link Threat Intel*](https://github.com/Manaf187/link-threat-intel): AI-powered threat intelligence platform.  
 - [*CyberBase CTF*](https://github.com/Manaf187/CyberBase): Gamified CTF platform for cybersecurity training.  
 - [*Tutorial & Walkthrough*](https://github.com/Manaf187/tutorial): Beginner-friendly cybersecurity guide.  
-
+- [*University Of Technologey Bahrain CTF*](https://github.com/Manaf187/UTB_CTF): A CTF for the students of UTB. 
 ---
 
 ## 🛠 Skills  
